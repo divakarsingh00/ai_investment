@@ -1,8 +1,10 @@
-node_modules/
+# Update .gitignore
+Set-Content -Path .gitignore -Value "node_modules/
 .next/
 *.h5
 *.keras
 venv/
 .env
+.env.local
 __pycache__/
-
+"
