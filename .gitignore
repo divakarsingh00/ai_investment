@@ -1,0 +1,8 @@
+node_modules/
+.next/
+*.h5
+*.keras
+venv/
+.env
+__pycache__/
+
